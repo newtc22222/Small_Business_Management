@@ -3,6 +3,7 @@
 - Java Development Kit: JavaSE 15
 - GUI: Java Swing + Java awt
 - Database: MySQL
+- Connection: JDBC
 - Connection Library: mysql-connector-java-8.0.13.jar
 
 ## Tree structure
